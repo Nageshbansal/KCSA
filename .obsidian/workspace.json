@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "ea592084659701d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce591152d14217ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8960ea184621d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview of Cloud Native Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "680b17bbabd39187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes Cluster Component Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69f1200a724b42a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "60ff6c30e62de853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef877d99aa194b3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91c273073985f64f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c5e6007ad3fabf0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd453b492b06e525",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bc4e9cb30a21aeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e129dfecf0bc1555",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kubernetes Cluster Component Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdc2af44421a3082",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kubernetes Cluster Component Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58ac77edba0f31e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5370debed7583cdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kubernetes Cluster Component Security.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "680b17bbabd39187",
+  "lastOpenFiles": [
+    "KCSA.md",
+    "Overview of Cloud Native Security.md",
+    "https:/github.com/Nageshbansal/KCSA",
+    "https:/github.com/Nageshbansal",
+    "https:/github.com",
+    "https:",
+    "Compliance and Security Frameworks.md",
+    "Kubernetes Threat Model.md",
+    "().md",
+    "Kubernetes Cluster Component Security.md",
+    "Kubernetes Security Fundamentals.md",
+    "Untitled"
+  ]
+}

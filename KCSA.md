@@ -64,4 +64,3 @@
 - https://github.com/iamaliyousefi/kcsa
 - [Security White Paper by tag-security](https://github.com/cncf/tag-security/tree/main/security-whitepaper)
 - [KCSA wiki](https://github.com/riquetta/KCSA/wiki)
-- 
