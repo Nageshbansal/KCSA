@@ -10,6 +10,7 @@ The repostitory is still under progress, trying to put all the notes in a better
 
 Referenced from the CNCF Curriculum Repo.
 
+<<<<<<< Updated upstream
 ### [Overview of Cloud Native Security](./Overview/Overview%20of%20Cloud%20Native%20Security.md) [14%]  
 - The 4Cs of Cloud Native Security
 - Cloud Provider and Infrastructure Security
@@ -17,6 +18,20 @@ Referenced from the CNCF Curriculum Repo.
 - Isolation Techniques
 - Artifact Repository and Image Security
 - Workload and Application Code Security
+=======
+[Kubernetes Cluster component Security](Kubernetes%20Cluster%20component%20Security.md) 22%
+    API Server
+    Controller Manager
+    Scheduler
+    Kubelet
+    Container Runtime
+    KubeProxy
+    Pod
+    Etcd
+    Container Networking
+    Client Security
+    Storage
+>>>>>>> Stashed changes
 
 ### [Kubernetes Cluster Component Security](./Cluster_Component_Security/Kubernetes%20Cluster%20Component%20Security.md) [22%]
 - API Server
