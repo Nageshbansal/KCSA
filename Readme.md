@@ -4,7 +4,7 @@ A repository containing the resources and notes to prepare for KCSA certificatio
 
 While i was preparing for the certification I found that there were not so many resources other than Kubernetes Docs and github wikis put together by some great folks (I've mentioned all of them in Resources section)
 
-The repostitory is still under progress, trying to put all the notes in a better manner.
+The repository is still a work in progress, and I'm continuously adding more content and refining it. I believe that by sharing it, we can create a collaborative space where everyone can benefit and contribute.
 
 ## Contents
 
