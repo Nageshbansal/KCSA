@@ -18,7 +18,7 @@ Referenced from the CNCF Curriculum Repo.
 - Artifact Repository and Image Security
 - Workload and Application Code Security
 
-### [Kubernetes Cluster Component Security](./Cluster_Component_Security/Kubernetes%20Cluster%20Component%20Security.md) [22%]
+### [Kubernetes Cluster Component Security](./Kubernetes%20Cluster%20component%20Security/Kubernetes%20Cluster%20component%20Security.md) [22%]
 - API Server
 - Controller Manager
 - Scheduler
